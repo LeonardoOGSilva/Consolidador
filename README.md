@@ -52,8 +52,6 @@ project/
 │ └── resultado_consolidado.xlsx
 └── README.md # Documentação
 
-yaml
-Copiar código
 
 ---
 
@@ -78,13 +76,9 @@ pip install pandas requests pywin32
 🛠 Instalação
 Clone este repositório:
 
-bash
-Copiar código
-git clone https://github.com/seuusuario/seu-repo.git
+git clone https://github.com/LeonardoOGSilva/Consolidador.git
 Instale as dependências:
 
-bash
-Copiar código
 pip install -r requirements.txt
 Certifique-se de que:
 
@@ -97,8 +91,6 @@ Os assuntos e filtros foram ajustados para o seu ambiente
 ▶️ Como Usar
 Execute o script:
 
-bash
-Copiar código
 python consolidator.py
 O fluxo de execução será:
 
@@ -119,7 +111,6 @@ Ao final, será exibida uma mensagem no console indicando que o processo foi con
 📁 Output
 O script gera:
 
-Copiar código
 resultado_consolidado.xlsx
 Este arquivo contém:
 
